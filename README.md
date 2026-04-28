@@ -58,11 +58,6 @@ proyecto/
 
 ## 🚀 Cómo verlo
 
-```bash
-git clone https://github.com/Annel-Dev/nombre-del-repo.git
-cd nombre-del-repo
-```
-
 Abre `index.html` en tu navegador.
 
 ## 📝 Notas
